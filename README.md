@@ -17,12 +17,10 @@ Este projeto de Ciência de Dados tem como objetivo **analisar e prever a evasã
 
 ## 🧪 Tecnologias e Bibliotecas Utilizadas
 
-- Python 3.x
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
+- 🐍 [Python](https://www.python.org/)
+- 🐼 [Pandas](https://pandas.pydata.org/)
+- 📊 [Matplotlib](https://matplotlib.org/)
+
 
 ---
 
