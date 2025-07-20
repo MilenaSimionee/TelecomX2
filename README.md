@@ -87,5 +87,4 @@ Recomenda-se que a Telecom X:
 
 ---
 
-## 📂 Estrutura do Projeto
 
